@@ -3,7 +3,7 @@
 
 This project is a homage to when personal webpages, animated GIFs, and a sense of online adventure defined digital exploration.
 
-Awesomesauce taps into the [Wiby](https://wiby.me/) JSON API, employing jQuery for that classic JavaScript feel and Handlebars for templating, delivering search results that bring you the pure essence of neocities.org webpages.
+Awesomesauce taps into the [Wiby](https://wiby.me/) JSON API, employing jQuery for that classic JavaScript feel and Handlebars for templating, delivering search results that bring you the pure essence of neocities.org and nekoweb webpages.
 
 Not just a search interface, but Awesomesauce also simplifies discovering the minds behind these web gems by providing direct links to their creator profiles.
 Besides this, you can also search for old-looking images by using the image search, or old videos by using the video search functions.
