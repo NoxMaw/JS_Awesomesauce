@@ -1,5 +1,5 @@
 # Awesomesauce
-[Website](https://awesomesauce3000.neocities.org/)
+[Live Website](https://awesomesauce3000.neocities.org/)
 
 This project is a homage to when personal webpages, animated GIFs, and a sense of online adventure defined digital exploration.
 
