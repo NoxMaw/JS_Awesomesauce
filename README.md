@@ -1,7 +1,7 @@
 # Awesomesauce
 [Live Website](https://awesomesauce3000.neocities.org/)
 
-This project is a homage to when personal webpages, animated GIFs, and a sense of online adventure defined digital exploration.
+This project is a homage to when personal webpages, animated GIFs, and a sense of online adventure defined digital exploration. 
 
 Awesomesauce taps into the [Wiby](https://wiby.me/) JSON API, employing jQuery for that classic JavaScript feel and Handlebars for templating, delivering search results that bring you the pure essence of neocities.org and nekoweb webpages.
 
@@ -10,6 +10,6 @@ Besides this, you can also search for old-looking images by using the image sear
 
 Video search makes use of the youtube API to define a date and month, by default it will search for videos from around 2011.
 
-Image search on the other hand employs custom code to retrieve images from GlitterGraphics website.
+Image search on the other hand employs custom code to retrieve images from GlitterGraphics website. Since GlitterGraphics offers no API to retrieve images, all of the processing is being done by the client-side, Awesomesauce is a static webpage with no backend after all.
 
 All of this avoiding CORS conflicts by using a serverless CORS proxy.
