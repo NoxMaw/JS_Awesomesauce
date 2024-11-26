@@ -1,6 +1,15 @@
 # Awesomesauce
 [Website](https://awesomesauce3000.neocities.org/)
 
-This is a tribute to the old days of the web, back to the days when the web was a wild west of personal webpages, blinking text, and GIFs.
+This project is a homage to when personal webpages, animated GIFs, and a sense of online adventure defined digital exploration.
 
-Awesomesauce is a dfront-end that makes use of [Wiby](https://wiby.me/) JSON API, Handlebars and Jquery to give you search results that are exclusively personal webpages from neocities.org.
+Awesomesauce taps into the [Wiby](https://wiby.me/) JSON API, employing jQuery for that classic JavaScript feel and Handlebars for templating, delivering search results that bring you the pure essence of neocities.org webpages.
+
+Not just a search interface, but Awesomesauce also simplifies discovering the minds behind these web gems by providing direct links to their creator profiles.
+Besides this, you can also search for old-looking images by using the image search, or old videos by using the video search functions.
+
+Video search makes use of the youtube API to define a date and month, by default it will search for videos from around 2011.
+
+Image search on the other hand employs custom code to retrieve images from GlitterGraphics website.
+
+All of this avoiding CORS conflicts by using a serverless CORS proxy.
